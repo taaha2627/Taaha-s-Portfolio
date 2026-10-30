@@ -150,6 +150,8 @@ const certificationGroups = [
   certificates: [
     'Fundamentals of Information Security',
     'Introduction to Cyber Security',
+    'Foundamentals of Cryptography',
+    'Cyber Security Foundation Certificate',
   ],
 },
 ];
