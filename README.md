@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Taaha Creative Portfolio — Cinematic Edition
 
 A React + Vite personal portfolio with a Netflix-inspired profile-selection intro, cinematic black/burgundy styling, animated interactions, and responsive project cards.
@@ -109,4 +109,3 @@ Open the local URL provided by Vite in your browser.
 ## License
 
 This project is intended to showcase my personal portfolio and development work.
->>>>>>> 0b9d1c49a22638b08d42a9b339e7ed6c5b83f944
